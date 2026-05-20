@@ -41,5 +41,5 @@ This project used Python to:
 The project explored how different student habits may be associated with GPA. Study time, sleep, physical activity, and stress were examined as possible factors related to academic performance.
 
 ## Files
-- `FinalProject_Group039-FA24.ipynb`  
+- `FinalProject.ipynb`  
   Full Jupyter Notebook with data cleaning, analysis, and visualizations.
